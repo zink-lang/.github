@@ -4,7 +4,7 @@ This is the home of [**the zink project**][0]!
 
 The naming of `Zink` is for `zinc`, `zk` and `ink`, we are about to join but not limited by the smart contract development tools of the blockchain industry 🦀 + 🕸️ + ♥️
 
-- Follow us on twitter: https://twitter.com/zinklang
+- Follow us on twitter: https://twitter.com/zinkonx
 - Join our telegram channel: https://t.me/zinklang
 
 See you on the dark side of the moon 🌑
